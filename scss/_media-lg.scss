@@ -1,0 +1,23 @@
+@media (min-width: 992px) {
+  :root {
+    --nav-btn-width: 6.5rem;
+    --nav-btn-light-margin: 0 0.5625rem 0 0;
+    --hero-img-padding: 0 8% 0 7.5%;
+    --hero-content-padding: 0 2% 0 8%;
+    --hero-text-padding: 0 0 3rem 0;
+    --navbar-container-xxl-padding: 1.3125rem 2.5rem 1.3125rem 2.5rem;
+    --icons-padding: 15% 0 0 0;
+    --hero-section-margin: 9% 0 5.875rem 0;
+    --navbar-nav-gap: 1.75rem;
+    --nav-img-padding: 0 3.75rem 0 0;
+    --hero-btn-width: 10.25rem;
+    --hero-btn-height: 3.5rem;
+    --hero-btn-font-size: 1.125rem;
+    --hero-heading-padding: 0 0 3rem 0;
+  }
+
+  /* ----- Navigation ----- */
+  .dropdown-menu {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+}
