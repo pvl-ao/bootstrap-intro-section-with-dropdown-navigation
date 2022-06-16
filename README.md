@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-![images/live-webpage-screenshot.png]
+![](images/live-webpage-screenshot.png)
 
 ### Links
 
