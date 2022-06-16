@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/pvl-ao/bootstrap-intro-section-with-dropdown-navigation]
 - Live Site URL: [https://bootstrap-intro-section-with-dropdown-navigation.netlify.app/]
 
 ### Built with
