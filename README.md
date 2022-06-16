@@ -1,3 +1,6 @@
+This repository does not contain node_modules.
+To download node modules - run the command inside parenthesis (npm i bootstrap@5.2.0-beta1) in your terminal.
+
 # Frontend Mentor - Intro section with dropdown navigation solution
 
 This is a solution to the [Intro section with dropdown navigation challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
